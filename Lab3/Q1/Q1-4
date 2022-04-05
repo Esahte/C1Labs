@@ -1,0 +1,2 @@
+When I take out the line that decreases 'x' in 'Q1-3' it prints the same number until 'i <= x'.
+When I took out the line that decreases 'x' in 'Q1-3 p2' in entered into an infinite loop.
